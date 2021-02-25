@@ -29,9 +29,6 @@
         <img src="https://github-readme-stats.vercel.app/api?username=jessescn&show_icons=true&theme=radical"width="60%"/>
     </a>
 </section>
-<footer align="center">
-    <a href="https://www.linkedin.com/in/jess%C3%A9-souza-15aa56190/">LinkedIn</a>
-</footer>
 
 
 
