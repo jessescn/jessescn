@@ -12,6 +12,7 @@
 <section>
     <h3>Current Stack 🧱</h3>
     <img align="left" src="https://pcodinomebzero.neocities.org/Imagens/javascript1.png" alt="Javascript" height="35px">
+    <img align="left" src="https://i.pinimg.com/originals/c3/8e/e8/c38ee8475ee7f3680f706c56c3a1194c.png" alt="Typescript" height="35px">
     <img align="left" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="Python" height="35px">
     <img align="left" src="https://image.flaticon.com/icons/png/512/1216/1216733.png" alt="HTML5" height="35px">
     <img align="left" src="https://cdn4.iconfinder.com/data/icons/iconsimple-programming/512/css-512.png" alt="CSS" height="35px">
@@ -22,8 +23,7 @@
     <img align="left" src="https://img.icons8.com/color/452/mongodb.png" alt="MongoDB" height="35px">
     <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" alt="Git" height="35px">
     <img align="left" src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="Redux" height="35px">
-    <img align="left" src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="Docker" height="35px">
-    <img src="" alt="Git" height="35px">
+    <img src="https://logos-world.net/wp-content/uploads/2021/02/Docker-Symbol.png" alt="Docker" height="35px">
 </section>
 <section>
     <h3>Github Status ⭐</h3>
